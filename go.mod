@@ -1,4 +1,4 @@
-module github.com/bor
+module github.com/VietJr/bor
 
 go 1.16
 
